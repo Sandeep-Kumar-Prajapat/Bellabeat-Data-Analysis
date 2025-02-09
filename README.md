@@ -38,7 +38,7 @@ The dataset used for this analysis comes from **Fitbit fitness trackers**, which
 
 ## Author
 **Sandeep**  
-📅 Date: September 2024  
+📅 Date: 13 September 2024  
 📧 Contact: sandeep7773@yahoo.com, +91-8502983497,
 [LinkedIn](https://www.linkedin.com/in/sandeep-kumar-prajapat)
 
